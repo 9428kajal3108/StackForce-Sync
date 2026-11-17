@@ -25,6 +25,7 @@
         <members>Case.Slack_Sync_Status__c</members>
         <members>Case.Slack_Channel_Id__c</members>
         <members>Case.Slack_Message_TS__c</members>
+        <members>Case.Claimed_By_Slack_User__c</members>
         <name>CustomField</name>
     </types>
     <types>
