@@ -23,8 +23,9 @@
     <masterLabel>Slack Webhook</masterLabel>
     <redirectToCustomDomain>true</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
-    <siteAdmin>personal-projects@user.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>personal-projects@user.com</siteGuestRecordDefaultOwner>
+    <!-- Replace the values below with your org's admin username after deployment -->
+    <siteAdmin>YOUR_ORG_ADMIN_USERNAME</siteAdmin>
+    <siteGuestRecordDefaultOwner>YOUR_ORG_ADMIN_USERNAME</siteGuestRecordDefaultOwner>
     <siteTemplate>SiteTemplate</siteTemplate>
     <siteType>Visualforce</siteType>
 </CustomSite>
